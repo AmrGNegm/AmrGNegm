@@ -19,8 +19,9 @@ I hope to become a useful and influential person in my community and that I can 
 	Data Science, Machine Learning, Artificial Intelligence, Data Visualization, Data Analysis, Microsoft (Word, Excel, PowerPoint), Python, C #, Power BI, Business Intelligence Tools (SSIS, SSAS and SSRS), Microsoft SQL Server. :heavy_check_mark:
 
 - 📫 How to reach me:
-:link: linkedin : https://www.linkedin.com/in/amrgnegm
-:link: Facebook : https://www.facebook.com/amr.gnegm
+- :link: linkedin : https://www.linkedin.com/in/amrgnegm
+<br>
+- :link: Facebook : https://www.facebook.com/amr.gnegm
 
 - 🌱 I’m currently pursuing **Machine learning and Data Science**.
 - ⚡ Fun fact: I **strongly** believe in this Quote from Jinbei(One Piece) "It may be hard right now... But you must silence those thoughts! Stop counting only those things that you have lost! What is gone, is gone! So ask yourself this: What is there... that still remains to you?!" ⚡⚡⚡.
@@ -41,7 +42,8 @@ I hope to become a useful and influential person in my community and that I can 
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
+	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
+	<img title="GCP" alt="GCP" src="https://raw.githubusercontent.com/AmrGNegm/AmrGNegm/ac8771b495fa908c392bad68e526acab3b34cf6b/master/assets/Google_Cloud_Platform-Logo.wine.svg" width="60" height="40" />
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
