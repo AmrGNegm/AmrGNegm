@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Amr Gomaa Negm,
 
-<!--
-**AmrGNegm/AmrGNegm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Summery:
 A Data Science Enthusiast :bar_chart: with a Physics background who is filled with a strong mathematical and statistical background 📜 , bright, talented, and self-motivated who has excellent organizational skills, is highly efficient and has a good eye for detail, able to play a key role 🚀  in analyzing problems and come up with creative solutions ✨ as well as producing methodologies for effective management, A quick learner who can absorb new ideas and can communicate clearly and effectively.
@@ -47,5 +45,3 @@ I hope to become a useful and influential person in my community and that I can 
 	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
-
-
