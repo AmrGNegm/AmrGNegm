@@ -35,7 +35,7 @@ I hope to become a useful and influential person in my community and that I can 
 
 <p align="center">
 	<img title="Data Science" alt="Data Science" src="https://raw.githubusercontent.com/AmrGNegm/AmrGNegm/a147830b79d64a4b847f305428a0c486e923f8f7/master/assets/analytics-data-analytics-svgrepo-com.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
+	<img title="Microsoft SQL Server" alt="Microsoft SQL Server" src="https://raw.githubusercontent.com/AmrGNegm/AmrGNegm/d4c3fece446f551cffa078c32bd5ce613258597e/master/assets/microsoft-sql-server-seeklogo.com.svg" width="80" height="40" />
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
