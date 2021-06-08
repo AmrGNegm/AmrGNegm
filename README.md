@@ -35,10 +35,9 @@ I hope to become a useful and influential person in my community and that I can 
 
 #### Programming Languages:
 <p align="center">
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="60" height="60" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="60" height="60" />
 	<img title="csharp" alt="csharp" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="60" height="60" />
-	<img title="R" alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="60" height="60" />
+	<img title="SQL" alt="SQL" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="60" height="60" />
 </p>
 
 #### Technologies:
