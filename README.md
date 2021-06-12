@@ -3,8 +3,8 @@
 
 #### Summery:
 
-A Data Science Enthusiast :bar_chart: with a Physics background who is filled with a strong mathematical and statistical background 📜 , bright, talented, and self-motivated who has excellent organizational skills, is highly efficient and has a good eye for detail, able to play a key role 🚀  in analyzing problems and come up with creative solutions ✨ as well as producing methodologies for effective management, A quick learner who can absorb new ideas and can communicate clearly and effectively.
-I believe that people who change the world are not limited to what they learned in their university, I am in love with Data Science, machine learning, and AI. :robot: 
+A **Data Science Enthusiast** :bar_chart: with a Physics background who is filled with a strong **mathematical** and **statistical** background 📜 , bright, talented, and self-motivated who has excellent organizational skills, is highly efficient and has a good eye for detail, able to play a key role 🚀  in analyzing problems and come up with **creative solutions** ✨ as well as producing methodologies for effective management, A quick learner who can absorb new ideas and can **communicate clearly** and effectively.
+I believe that people who change the world are not limited to what they learned in their university, I am in love with **Data Science, machine learning, and AI**. :robot: 
 I hope to become a useful and influential person in my community and that I can always make a difference. ♥ ✨ 
 
 - 🔭 I’m currently working on two Projects
