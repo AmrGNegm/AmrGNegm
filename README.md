@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Amr Gomaa Negm,
+### Hi there 👋 I'm Amr Negm,
 
 
 #### Summery:
