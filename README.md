@@ -59,3 +59,7 @@ I hope to become a useful and influential person in my community and that I can 
 	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="60" height="60" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="60" height="60" />
 </p>
+
+
+<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amrgnegm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/amrgnegm?trk=profile-badge">Amr Negm</a></div>
+              
