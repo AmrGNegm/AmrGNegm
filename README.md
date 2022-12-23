@@ -62,11 +62,5 @@ I hope to become a useful and influential person in my community and that I can 
 
 
 <div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amrgnegm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/amrgnegm?trk=profile-badge">Amr Negm</a></div>
-
-
-
-Linkedin:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="amrgnegm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/amrgnegm?trk=profile-badge">Amr Negm</a></div>
-              
+ 
               
