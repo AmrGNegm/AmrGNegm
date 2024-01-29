@@ -1,66 +1,116 @@
-### Hi there 👋 I'm Amr Negm,
+### Hey there! 👋 I'm Amr Negm, a Sr. Business Intelligence Developer, Data Modeler, and Azure Data Engineer based in Egypt.
 
 
-#### Summary:
+#### About Me:
 
-A **Data Enthusiast** :bar_chart: with a Physics background who is filled with a strong **mathematical** and **statistical** background 📜 , bright, talented, and self-motivated who has excellent organizational skills, is highly efficient and has a good eye for detail, able to play a key role 🚀  in analyzing problems and come up with **creative solutions** ✨ as well as producing methodologies for effective management, A quick learner who can absorb new ideas and can **communicate clearly** and effectively.
-I believe that people who change the world are not limited to what they learned in their university, I am in love with **Data Science, machine learning, and AI**. :robot: 
-I hope to become a useful and influential person in my community and that I can always make a difference. ♥ ✨ 
+* 🔭 I have around four years of experience in Data Modeling, Engineering, Visualization, Business Intelligence, and Data Analytics.
+* 💡 I thrive on designing, developing, and maintaining efficient data solutions, including Databases, Data Warehouses (DWH), and Extract Transform Load (ETL) processes.
+* 🚀 My expertise includes certified Azure data skills, and I'm confident in providing valuable insights to support data-driven decision-making for organizations.
 
-- 🔭 I’m currently working on two Projects
-1- Customer Churn Prediction (CCP) - Telecom industry.
-2- Graduation Project | ITI – Business Intelligence Development | Exam System Management.
+#### 🛠️ Skills:
 
-- 🌱 I’m currently learning Business Intelligence Development and Data Science.
+##### Technical Skills:
+* SQL, Python
+* Data Analytics, Business Intelligence
+* Microsoft Power BI, Data Visualization
+* Azure Data Factory, Azure SQL, Azure Logic Apps
+* Azure Functions, Azure Blob Storage, Power Automate
+* (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service
+* Salesforce, Google BigQuery, Snowflake, PySpark, Databricks
+* Database development, administration, tuning performance
+* Data Warehouse (DWH), Extract Transform Load (ETL)
+* Data Science, Data Engineering
+* Microsoft Excel, PowerPoint, Access
+* Familiar with Big Data technologies
 
-- 👯 I’m looking to collaborate on practical machine learning and data science projects that make a difference in our life.
+##### Soft Skills:
+* Strong Analytical and Problem-Solving Skills
+* Effective Communication and Presentation Skills
+* Teamwork and Collaboration
+* Time Management and Prioritization
+* Adaptability and Flexibility
+* Initiative and Self-Motivation
+* Leadership and Mentorship
+* Attention to Detail
+* Positive Attitude and Willingness to Learn
+
+
+#### 👨‍💻 Experience:
+
+##### Sr. Business Intelligence Developer & Azure Data Engineer at Majorel (Teleperformance) | Sep 2022 - Present
+* Lead the development, design, and implementation of efficient ETL processes using Azure Data Services and Power BI.
+* Provide guidance, mentorship, and technical support to junior business intelligence developers and data engineers.
+
+##### Business Intelligence Consultant (Freelance) at FMCG Company | Jan 2021 - Present
+* Design and implement robust business intelligence solutions using Azure Data Services and Power BI.
+* Lead teams to develop efficient data processes and deliver impactful reports and visualizations.
+
+##### Azure Data Engineer (Professional Training) at Microsoft Skill-Lab | Nov 2022 - Jan 2023
+* Completed the Microsoft Azure scholarship provided by Microsoft.
+* Certified after completing rigorous training in Azure Data Services.
+
+##### Database & Business Intelligence Developer at G2K-GROUP | Jul 2021 - Sep 2022
+* Design and monitor complex databases, ensuring operational and relevant data.
+* Work with different development teams to establish an efficient database system using SQL Server.
+
+##### Business Intelligence Developer (Professional Training) at Information Technology Institute (ITI) | Jan 2021 - Jul 2021
+* Gained expertise in designing and developing databases, data warehouse modeling, and implementing functions.
+* Achieved 1st rank in the Business Intelligence track with an excellent grade for the Graduation Project.
+
+#### 🎓 Education:
+* Postgraduate studies in Statistics at Cairo University
+* Bachelor of Physics from Menoufia University, GPA: 72%
+
+#### 🎓 Volunteering experience:
+* Mentor at Data Guys community.
+* Former President of "INCEPTION" student activity for two years.
+* Volunteer at the Humane Society.
+
+#### 🚀 Certifications
+* Microsoft Certified: Azure Data Engineer Associate
+* Microsoft Certified: Azure Data Scientist Associate
+* Microsoft Certified: Azure Fundamentals
+
+#### 🌐 Languages
+* Arabic (Native)
+* English
 
 - 💬 Ask me about:
-	Data Science, Machine Learning, Artificial Intelligence, Data Visualization, Data Analysis, Microsoft (Word, Excel, PowerPoint), Python, C #, Power BI, Business Intelligence Tools (SSIS, SSAS and SSRS), Microsoft SQL Server. :heavy_check_mark:
+	SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, Azure Data Factory, Azure SQL, Azure Logic Apps, Azure function, Azure Blob Storage, Power Automate, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Salesforce, Google BigQuery, Snowflake, PySpark, Databricks, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Data Engineering, Microsoft (Excel, PowerPoint, and Access). :heavy_check_mark:
 
-- 📫 How to reach me:
-- :link: linkedin : https://www.linkedin.com/in/amrgnegm
-- :link: Facebook : https://www.facebook.com/amr.gnegm
+#### 🚧 Projects Summary:
+* Cloud-based Data Warehouse Implementation
+Create a scalable and efficient data warehouse solution using Azure services like Azure SQL Database.
+Demonstrate ability in designing data schema, implementing data pipelines, and optimizing query performance.
 
-- 🌱 I’m currently pursuing **Machine learning and Data Science**.
-- ⚡ Fun fact: I **strongly** believe in this Quote from Jinbei(One Piece) "It may be hard right now... But you must silence those thoughts! Stop counting only those things that you have lost! What is gone, is gone! So ask yourself this: What is there... that still remains to you?!" ⚡⚡⚡.
+* Data Integration and ETL Pipelines
+Design and implement end-to-end data integration and ETL pipelines using Azure Data Factory.
+Showcase expertise in extracting data from different sources, transforming it, and loading it into the target data store.
 
+* Data Visualization and Reporting
+Build interactive dashboards and reports using Power BI, connecting to Azure data sources.
+Showcase ability to create compelling visualizations to convey insights to stakeholders.
 
+* Serverless ETL
+Design a serverless ETL solution with Azure Functions and Python.
+Use Azure Data Lake Gen 2 as the data source, apply transformations, and load processed data into Azure SQL Database.
 
+* Automated Data Integration Pipeline
+Build an end-to-end data integration pipeline using Power Automate and Logic Apps.
+Extract data from various sources, transform as needed, and load it into a data warehouse or Power BI for reporting and analysis.
 
+* Google Drive File Management
+Create a Google App script that organizes files in Google Drive based on specific criteria like file type, creation date, or keywords.
 
-
-
-### My skills:
-
-#### Programming Languages:
-<p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="60" height="60" />
-	<img title="csharp" alt="csharp" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" width="60" height="60" />
-	<img title="SQL" alt="SQL" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="60" height="60" />
-</p>
-
-#### Technologies:
-
-<p align="center">
-	<img title="Data Science" alt="Data Science" src="https://raw.githubusercontent.com/AmrGNegm/AmrGNegm/a147830b79d64a4b847f305428a0c486e923f8f7/master/assets/analytics-data-analytics-svgrepo-com.svg" width="70" height="40" />
-	
-	
-</p>	
+* Google Forms Integration
+Develop a Google App script that takes responses from a Google Form, processes the data, and stores it in a Google Sheets database.
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions!
 
 
-#### Tools:
-<p align="center">
-	<img title="Microsoft SQL Server" alt="Microsoft SQL Server" src="https://raw.githubusercontent.com/AmrGNegm/AmrGNegm/d4c3fece446f551cffa078c32bd5ce613258597e/master/assets/microsoft-sql-server-seeklogo.com.svg" width="60" height="60" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="60" height="60" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="60" height="60" />
-	<img title="GCP" alt="GCP" src="https://raw.githubusercontent.com/AmrGNegm/AmrGNegm/ac8771b495fa908c392bad68e526acab3b34cf6b/master/assets/Google_Cloud_Platform-Logo.wine.svg" width="60" height="60" />
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="60" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="60" height="60" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="60" height="60" />
-</p>
+##### 📫 How to reach me:
+- :link: LinkedIn: https://www.linkedin.com/in/amrgnegm
+- :link: Facebook: https://www.facebook.com/amr.gnegm
+- :link: Twitter: https://twitter.com/AmrgNegm
 
+##### ⚡ Fun fact: I **strongly** believe in this Quote from Jinbei(One Piece) "It may be hard right now... But you must silence those thoughts! Stop counting only those things that you have lost! What is gone, is gone! So ask yourself this: What is there... that remains to you?!" ⚡⚡⚡.
 
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amrgnegm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/amrgnegm?trk=profile-badge">Amr Negm</a></div>
- 
-              
