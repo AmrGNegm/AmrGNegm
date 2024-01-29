@@ -76,7 +76,7 @@
 * English
 
 #### 💬 Ask me about:
-	SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, Azure Data Factory, Azure SQL, Azure Logic Apps, Azure function, Azure Blob Storage, Power Automate, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Salesforce, Google BigQuery, Snowflake, PySpark, Databricks, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Data Engineering, Microsoft (Excel, PowerPoint, and Access). :heavy_check_mark:
+	SQL, Python, Data Analytics, Business intelligence, Microsoft Power BI, Data Visualization, Microsoft SQL Server, Azure Data Factory, Azure SQL, Azure Logic Apps, Azure function, Azure Blob Storage, Power Automate, (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service, Salesforce, Google BigQuery, Snowflake, PySpark, Databricks, Databases (development, administration, and tuning performance), Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, Data Engineering, Microsoft (Excel, PowerPoint, and Access).
 
 #### 🚧 Projects Summary:
 * Cloud-based Data Warehouse Implementation
